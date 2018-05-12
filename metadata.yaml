@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35053'
     url: http://www.gutenberg.org/2009/agents/35053
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23836#The-French-Prisoners-of-Norman-Cross--A-Tale
 gutenberg_issued: '2007-12-12'
 gutenberg_type: Text
 identifiers:
